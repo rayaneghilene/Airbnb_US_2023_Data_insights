@@ -22,6 +22,9 @@ This project aims to explore and analyze a dataset of US airbnb housing to gain 
 
 The dataset used in this project is [AB_US_2023.csv](data/AB_US_2023.csv). It contains information about various airbnb housing properties in the US, including details like price, area, number of rooms, neighborhood, and more.
 
+Link to Download the dataset [Dataset](https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data)
+
+
 ## Installation
 
 Clone this repository:
